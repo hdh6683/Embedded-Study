@@ -1,4 +1,4 @@
-# Embedded-Study
+# bit_operation
 
 Bit 연산
 unsigned short 2Byte를 받으면
